@@ -1,7 +1,14 @@
 # Desafio-Git-Github-Dio.me
 Repositório do desafio de projeto sobre Git/Github da dio.me - Bootcamp QA
 
-## Criação de Links no Github:
+## Como enviar para o github nova pasta criada pelo Git:
+git add .
+git status
+git commit -m "Inclusão das anotações do curso de GitGithub"
+git status
+git push origin main
+
+## Como criar links no Github:
 Abrir colchetes e colocar o texto que irá ser exibido. 
 Abrir parênteses e colocar o link, fechar parênteses.
 
