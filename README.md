@@ -11,9 +11,9 @@ git status
 git push origin main
 
 ## Formatações básicas do Github:<br />
-Quebra de linha: Adicione ao final da palavra <br />
-Negrito: Adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.  
-Itálico: Adicione apenas um asterisco *texto* ou um traço-baixo _texto_ no início e no fim do conteúdo.
+Quebra de linha: Adicione ao final da palavra o símbolo 'menor que' as letras 'br' espaço o símbolo 'barra' e o símbolo 'maior que'  < br  />
+Negrito: Adicione dois asteriscos no início e no fim do conteúdo.   
+Itálico: Adicione apenas um asterisco no início e no fim do conteúdo.
 
 
 ## Como criar links no Github:
